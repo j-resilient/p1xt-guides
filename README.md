@@ -90,10 +90,10 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |Completed   |              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------:   | :----------: |
+| Welcome To Coding                                                                                                                                                     |Complete    |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |Complete    |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |Complete    |[Hash Map, LRU Cache, and Dynamic Array](https://github.com/j-resilient/hash-map--lru-cache "Hash Map, LRU Cache, and Dynamic Array")|
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
 | Full Stack Online - Rails                                                                                                                                             |            |              |
